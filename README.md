@@ -1,6 +1,6 @@
 # fast-script-uploader
 
-__firstly fill the "url" variable with the url you want to post files to
+__firstly fill the "url" variable with the url you want to post files to__
 
 __upload multiple files to a url from commandline__
 
