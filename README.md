@@ -1,6 +1,8 @@
 # fast-script-uploader
 
-__upload multiple files to 0x0.st from commandline__
+__firstly fill the "url" variable with the url you want to post files to
+
+__upload multiple files to a url from commandline__
 
 <img src='https://github.com/Aydeniztr/fast-script-uploader/blob/main/F842EE39-863B-4C96-8912-8CAE0378E8B9.jpeg?raw=true'>
 
