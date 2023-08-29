@@ -14,8 +14,8 @@ def uploadf():
        from requests import post
      except:
        print("requests module not found")
-
-     url = "http://0x0.st/"
+     //enter the url which you want to post your files to
+     url = "<your_url>"
      files = {"file": open(fs, "rb")}
 
      r = post(url, files=files)
